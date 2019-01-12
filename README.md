@@ -13,7 +13,7 @@ npm install -g generator-vue-webpack4
 Then generate your new project:
 
 ```bash
-yo vue-webpack@4
+yo vue-webpack4
 ```
 
 ## Getting To Know Yeoman

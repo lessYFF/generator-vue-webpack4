@@ -11,6 +11,6 @@ describe('generator-vue-webpack4:app', () => {
   });
 
   it('creates files', () => {
-    assert.file(['dummyfile.txt']);
+    assert.file(['vue-webpack-template/package.json']);
   });
 });
